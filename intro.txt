@@ -1,0 +1,2 @@
+Hello, I am learning to contribute to open-source projects.
+This is my first GitHub practice.
